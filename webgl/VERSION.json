@@ -1,0 +1,17 @@
+{
+  "contentVersion": "v1.3-life-profile.candidate.55",
+  "configurationHash": "31f62aac38d980cf8fec06cd25e44d7de91a1e0289809dd1fb0623eff694f88a",
+  "sourceConfigSha256": "aa6fe7ddc3a7dfc483241f264e4848a51c14b605e1eb0487503acfc581393d17",
+  "sourceSnapshotSha256": "e255e01be7da1105d732b1caa5a0a6ef38292268f1bd05906f61a9db88a6fd81",
+  "baselineCommit": "a62eb9edef377b614327236cd23a927692230e4e",
+  "engine": "6000.3.19f1",
+  "target": "WebGL",
+  "lifeOnly": true,
+  "developmentBuild": false,
+  "status": "DEVELOPMENT_TRIAL",
+  "clientDate": "2026-10-06",
+  "compression": "Brotli",
+  "dataBytes": 9793777,
+  "corePayloadBytes": 14392962,
+  "sourceCommit": "0102a942a8e9bf25a7b6a5958359e6ee6f83920b"
+}
