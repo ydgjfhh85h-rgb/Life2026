@@ -1,44 +1,44 @@
 {
-  "contentVersion": "v1.3-life-profile.candidate.66",
-  "configurationHash": "2611594afb37540fe5b0e82a7e524500f45832f8dfcdd13b119b5f8b90aba503",
-  "sourceConfigSha256": "b78f1c7ff5679b282cff3338b1771184f6f5724f87b010d30d5dc185f59d6592",
-  "sourceSnapshotSha256": "431d051d11af550c4b34618ec00c72bc9af2d53a342b222b06c54c063b161a08",
-  "baselineCommit": "9d29cead8c46db9e21d2f968c1851afe7449c485",
+  "contentVersion": "v1.3-life-profile.candidate.98",
+  "configurationHash": "e0c7c4fcba6f1e6ea71fb32c6eab886490358edc75f1b09db38b741fdd9163ff",
+  "sourceConfigSha256": "b386b2537f7e34e103fe6cf79698b5ee3d5030b02aaeb9c28066552db0a40541",
+  "sourceSnapshotSha256": "0c316b73206a03307564de865ab6b58f0d488b2e43dfea4a5e227463171bc00d",
+  "baselineCommit": "e3ef470f2608f1bf4e014b7eb1c79a2007fa8b94",
   "engine": "6000.3.19f1",
   "target": "WebGL",
   "lifeOnly": true,
   "developmentBuild": false,
   "status": "DEVELOPMENT_TRIAL",
-  "clientDate": "2026-10-08",
-  "sourceCommit": "b7a4112f3f8c59e5ffbf3556e3271b93a81dd8f3",
+  "clientDate": "2026-10-09",
+  "sourceCommit": "c8e6d5702829d7a674a3391667f22b53f6dac2de",
   "deferredCities": true,
   "cityBundles": [
     {
       "city": "town",
-      "file": "CityAssets/town-1789774ab5f0ba5c9163a343d35d6215.bundle.br",
+      "file": "CityAssets/town-ec41061804d1900459ed0d40582464f6.bundle.br",
       "backdrop": "Web/JourneyTown",
       "rear": "JourneyRearTown",
-      "crc": 600460086,
-      "rawBytes": 1178629
+      "crc": 145278621,
+      "rawBytes": 215600
     },
     {
       "city": "city",
-      "file": "CityAssets/city-451edfa9fbc490bc8fe433d2fc918fd6.bundle.br",
+      "file": "CityAssets/city-e735be84ca827c8573716d19399c11f2.bundle.br",
       "backdrop": "Web/JourneyCity",
       "rear": "JourneyRearCity",
-      "crc": 551034357,
-      "rawBytes": 1078897
+      "crc": 2021938768,
+      "rawBytes": 185079
     },
     {
       "city": "metro",
-      "file": "CityAssets/metro-24136efc4e26675cc1dcd39412bf7e1b.bundle.br",
+      "file": "CityAssets/metro-1e8f6208468fb19ee22a2691267b1594.bundle.br",
       "backdrop": "Web/JourneyMetro",
       "rear": "JourneyRearMetro",
-      "crc": 1817103068,
-      "rawBytes": 1041363
+      "crc": 2000708346,
+      "rawBytes": 212557
     }
   ],
   "compression": "Brotli",
-  "dataBytes": 7848876,
-  "corePayloadBytes": 12515726
+  "dataBytes": 9844485,
+  "corePayloadBytes": 14600299
 }
